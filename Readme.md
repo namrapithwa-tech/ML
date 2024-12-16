@@ -30,5 +30,5 @@ This project applies machine learning techniques for regression tasks. The datas
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ml-regression.git
+git clone https://github.com/namrapithwa-tech/ML.git
 cd ml-regression
