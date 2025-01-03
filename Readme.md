@@ -135,8 +135,8 @@ Special thanks to the open-source community and the developers of NumPy, Pandas,
 For queries or collaboration, feel free to reach out:
 
 - **GitHub:** [Namra Pithwa](https://github.com/namrapithwa-tech)
-- **LinkedIn:** [Namra Pithwa](#)
-- **Email:** your-email@example.com
+- **LinkedIn:** [Namra Pithwa](https://www.linkedin.com/in/namra-pithwa)
+- **Email:** tech.namra@gmail.com
 
 ---
 
