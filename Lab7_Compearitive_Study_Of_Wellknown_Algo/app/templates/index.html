@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diabetes Prediction Model - KFold Cross-Validation</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Diabetes Prediction Model</h1>
+    <form method="POST">
+      <label for="folds">Enter Number of Folds:</label>
+      <input type="number" id="folds" name="folds" min="2" max="10" value="5" required>
+      <button type="submit">Evaluate Model</button>
+    </form>
+
+    {% if accuracy is not none %}
+      <div class="result">
+        <h2>Model Accuracy: {{ accuracy }}%</h2>
+      </div>
+    {% endif %}
+  </div>
+
+  <footer>
+    Developer: Namra Pithwa
+  </footer>
+</body>
+</html>
